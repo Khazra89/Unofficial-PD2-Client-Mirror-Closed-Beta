@@ -1,0 +1,133 @@
+{
+  "DdrawOptions": {
+    "Width": 0,
+    "Height": 0,
+    "Fullscreen": true,
+    "Windowed": false,
+    "Maintas": false,
+    "Boxing": false,
+    "MaxFps": "60",
+    "Vsync": false,
+    "AdjMouse": false,
+    "Shader": "Shaders\\xbr\\xbr-lv2-noblend.glsl",
+    "PosX": -32000,
+    "PosY": -32000,
+    "Renderer": "opengl",
+    "DevMode": false,
+    "Border": false,
+    "SaveSettings": "1",
+    "Resizeable": false,
+    "Vhack": false,
+    "D3d9Linear": false,
+    "NoActivateApp": false,
+    "MaxGameTicks": "-2",
+    "HandleMouse": true,
+    "Hook": "4",
+    "MinFps": "0",
+    "NonExclusive": false,
+    "SingleCpu": true
+  },
+  "FileUpdateModel": {
+    "Client": "https://pd2-beta-client-files.projectdiablo2.com/",
+    "FilePath": "Beta",
+    "Launcher": "https://storage.googleapis.com/storage/v1/b/pd2-launcher-update/o",
+    "Other": ""
+  },
+  "SelectedAuthorAndFilter": {
+    "selectedAuthor": null,
+    "selectedFilter": null
+  },
+  "Pd2AuthorList": {
+    "StorageETag": "null",
+    "StorageAuthorList": null
+  },
+  "LauncherArgs": {
+    "graphics": false,
+    "skiptobnet": true,
+    "sndbkg": false,
+    "disableAutoUpdate": false
+  },
+  "News": {
+    "ETag": "282b292d792d133083e9cb22a0598d3b13c5859ebe942215ff011b35e3215a85",
+    "news": [
+      {
+        "date": "May 15, 2025",
+        "title": "Season 11 Prosperity has launched!",
+        "summary": "Good luck and may the bers be with you! If you'd like to post a trade make sure to check out our trade website by clicking the link above or click this link to see the Season 10 Patch Notes!",
+        "content": "\n\nJoin the action and community discussions on [Discord](https://discord.gg/projectdiablo2) and [Reddit](https://www.reddit.com/r/ProjectDiablo2/).",
+        "image": null,
+        "link": "https://www.reddit.com/r/ProjectDiablo2/comments/1knnycc/project_diablo_2_season_11_prosperity_patch_notes/"
+      },
+      {
+        "date": "May 11, 2025",
+        "title": "Season 11 Prosperity Open Beta has launched!",
+        "summary": "Thanks for helping us stress test and ensure the launch goes smoothly! For additional information on some of our new features such as the Materials Tab, WASD or Controller support simply check out our patch notes by clicking this link!",
+        "content": "\n\nJoin the action and community discussions on [Discord](https://discord.gg/projectdiablo2) and [Reddit](https://www.reddit.com/r/ProjectDiablo2/).",
+        "image": null,
+        "link": "https://www.reddit.com/r/ProjectDiablo2/comments/1kl8uh3/project_diablo_2_season_11_prosperity_open_beta/"
+      },
+      {
+        "date": "October 24, 2024",
+        "title": "Season 10 Desecration is here!",
+        "summary": "Welcome to Season 10: Desecration! Discover exciting new items, face a powerful new Uber boss, and enjoy a range of quality-of-life improvements and balance updates.",
+        "content": "\n\nJoin the action and community discussions on [Discord](https://discord.gg/projectdiablo2) and [Reddit](https://www.reddit.com/r/ProjectDiablo2/).",
+        "image": null,
+        "link": "https://www.projectdiablo2.com/news"
+      },
+      {
+        "date": "October 20, 2024",
+        "title": "Welcome to Season 10 Open Beta",
+        "summary": "Join us October 21st - 22nd in the open beta for Season 10 Desecration",
+        "content": "Season 10 Desecrations's open beta is here! Help us test new features and squash all the bugs! Your feedback helps shape the game's future. \n\nJoin the action and community discussions on [Discord](https://discord.gg/projectdiablo2) and [Reddit](https://www.reddit.com/r/ProjectDiablo2/).",
+        "image": null,
+        "link": "https://www.projectdiablo2.com/news"
+      },
+      {
+        "date": "October 11, 2024",
+        "title": "Welcome to Season 10 Closed Beta",
+        "summary": "Join us October 12th - 20th in the closed beta for Season 10 Desecration and be part of the evolution in Project Diablo 2!",
+        "content": "Season 10 Desecrations's closed beta is here! Help us test new features and squash all the bugs! Your feedback helps shape the game's future. \n\nJoin the action and community discussions on [Discord](https://discord.gg/projectdiablo2) and [Reddit](https://www.reddit.com/r/ProjectDiablo2/).",
+        "image": null,
+        "link": "https://www.projectdiablo2.com/news"
+      },
+      {
+        "date": "April 07, 2024",
+        "title": "Welcome to Season 9 Open Beta",
+        "summary": "Join us April 8th - 10th in the open beta for Season 9 Anarchy and be part of the evolution in Project Diablo 2!",
+        "content": "Season 9 Anarchy's open beta is here! Explore new features, items, and improvements in Project Diablo 2. Your feedback helps shape the game's future. \n\nJoin the action and community discussions on [Discord](https://discord.gg/projectdiablo2) and [Reddit](https://www.reddit.com/r/ProjectDiablo2/).",
+        "image": null,
+        "link": "https://www.reddit.com/r/ProjectDiablo2/comments/1brs6fn/project_diablo_2_season_9_tentative_notes/"
+      },
+      {
+        "date": "March 29, 2024",
+        "title": "Season 9 Anarchy Closed Beta",
+        "summary": "Welcome to the Closed Beta for Project Diablo 2 Season 9 Anarchy!",
+        "content": "`Season 9` Anarchy is comming, and it's bringing a host of new features, items, and improvements to Project Diablo 2. \n\nStay tuned for our live updates every Saturday at 10:00 am PST on [Twitch](https://www.twitch.tv/senpaisomething) \n\nFor more details, check out our [Reddit announcement](https://www.reddit.com/r/ProjectDiablo2/comments/1b54dsw/first_dev_stream_and_season_9_date_announcement/).",
+        "image": null,
+        "link": "https://www.reddit.com/r/ProjectDiablo2/comments/1b54dsw/first_dev_stream_and_season_9_date_announcement/"
+      },
+      {
+        "date": "March 11, 2024",
+        "title": "Project Diablo 2",
+        "summary": "A mod by passionate Diablo 2 fans aiming to maintain the Lord of Destruction experience with consistent ladder resets and improvements as if development never ceased.",
+        "content": "Welcome to **Project Diablo 2**, a mod created by dedicated fans of the original game. We strive to keep the essence of Diablo 2's Lord of Destruction expansion alive while incorporating quality-of-life improvements and new features to enhance the classic gameplay experience.\n\nFor more information and to become a part of our growing community, [click here](https://www.projectdiablo2.com/).",
+        "image": "https://www.projectdiablo2.com/image/portal.png",
+        "link": "https://www.projectdiablo2.com/news"
+      }
+    ]
+  },
+  "WindowPosition": {
+    "Left": 567.0,
+    "Top": 273.0
+  },
+  "ResetInfo": {
+    "ETag": "09aba86e1e780c654d06e28e8db81a49a56e9d73915bf28860f2ab73b3a45153",
+    "ResetData": {
+      "ResetTitle": "Season 9 Reset",
+      "ResetTime": "2024-04-12T17:00:00Z",
+      "ResetSummary": "Season Reset time is 10am pst. \n(Your Local Time:",
+      "ResetContent": null,
+      "ResetLink": "https://www.reddit.com/r/ProjectDiablo2/comments/1b54dsw/first_dev_stream_and_season_9_date_announcement/"
+    }
+  }
+}
