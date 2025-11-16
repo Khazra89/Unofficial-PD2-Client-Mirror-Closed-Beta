@@ -1,12 +1,12 @@
 {
   "DdrawOptions": {
-    "Width": 0,
-    "Height": 0,
+    "Width": 1068,
+    "Height": 600,
     "Fullscreen": true,
-    "Windowed": false,
+    "Windowed": true,
     "Maintas": false,
     "Boxing": false,
-    "MaxFps": "60",
+    "MaxFps": "0",
     "Vsync": false,
     "AdjMouse": false,
     "Shader": "Shaders\\xbr\\xbr-lv2-noblend.glsl",
@@ -14,11 +14,11 @@
     "PosY": -32000,
     "Renderer": "opengl",
     "DevMode": false,
-    "Border": false,
+    "Border": true,
     "SaveSettings": "1",
-    "Resizeable": false,
+    "Resizeable": true,
     "Vhack": false,
-    "D3d9Linear": false,
+    "D3d9Linear": true,
     "NoActivateApp": false,
     "MaxGameTicks": "-2",
     "HandleMouse": true,
@@ -117,8 +117,8 @@
     ]
   },
   "WindowPosition": {
-    "Left": 567.0,
-    "Top": 273.0
+    "Left": 686.0,
+    "Top": 44.0
   },
   "ResetInfo": {
     "ETag": "09aba86e1e780c654d06e28e8db81a49a56e9d73915bf28860f2ab73b3a45153",

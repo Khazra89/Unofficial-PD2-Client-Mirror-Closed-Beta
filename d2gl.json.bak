@@ -1,12 +1,12 @@
 {
     "screen": {
-        "window_size_width": 800,
-        "window_size_height": 600,
+        "window_size_width": 1280,
+        "window_size_height": 720,
         "window_centered": true,
         "window_position_x": 0,
         "window_position_y": 0,
         "unlock_cursor": false,
-        "window_fullscreen": true,
+        "window_fullscreen": false,
         "window_vsync": true,
         "foreground_fps_active": true,
         "foreground_fps_value": 60,
