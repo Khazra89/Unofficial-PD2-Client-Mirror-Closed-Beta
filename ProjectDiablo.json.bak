@@ -7,17 +7,7 @@
             "positional_bias": 0,
             "npc_speech": 2,
             "options_music": 1,
-            "options_music_volume": 28,
-            "ui_volume": 100,
-            "items_volume": 100,
-            "monsters_volume": 100,
-            "skills_volume": 100,
-            "combat_volume": 100,
-            "ambient_volume": 100,
-            "voice_volume": 100,
-            "quest_volume": 100,
-            "objects_volume": 100,
-            "item_drop_volume": 100
+            "options_music_volume": 28
         },
         "video": {
             "contrast": 75,
@@ -48,17 +38,17 @@
             "lasttcpip": "",
             "preferred_realm": "ProjectD2",
             "default_channel": "",
-            "last_bnet": "khazra",
+            "last_bnet": "",
             "max_player": 8,
-            "diff_level": 0,
+            "diff_level": 2,
             "lvl_rest": 666,
-            "selected_game_server": 4,
+            "selected_game_server": 10,
             "loot_alloc": 0
         },
         "other": {
             "lng_file": "",
-            "installpath": "F:\\Diablo II Season 12 unpack\\Diablo II Clean install\\Diablo II\\",
-            "save_path": "F:\\Diablo II Season 12 unpack\\Diablo II Clean install\\Diablo II\\Save\\"
+            "installpath": "X:\\Pd2 patches Github\\Diablo II\\",
+            "save_path": ""
         }
     },
     "pd2_game_settings": {
@@ -73,9 +63,8 @@
         "wasd_movement": false,
         "controller_movement": true,
         "controller_sensitivity": 50,
-        "controller_aim_assist": 1,
+        "controller_aim_assist": 2,
         "controller_deadzone": 20,
-        "auto_equip": true,
         "always_regenerate_levels": false,
         "player_count": 1,
         "auras": {
@@ -87,7 +76,6 @@
             "lucion_aura": 0
         },
         "showItemHelpText": true,
-        "controllerMultiButtonLoot": false,
-        "autosync": false
+        "controllerMultiButtonLoot": false
     }
 }

@@ -34,82 +34,12 @@
     "Other": ""
   },
   "SelectedAuthorAndFilter": {
-    "selectedAuthor": {
-      "name": "Kryszard's PD2 Loot Filter",
-      "url": "https://api.github.com/repos/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/contents",
-      "author": "Kryszard"
-    },
-    "selectedFilter": {
-      "name": "item.filter",
-      "download_url": "https://raw.githubusercontent.com/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/main/item.filter",
-      "path": "item.filter",
-      "sha": "835d07e76523d62cb86df05602643b3f9fcbbb2e",
-      "size": 722160,
-      "url": "https://api.github.com/repos/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/contents/item.filter?ref=main",
-      "html_url": "https://github.com/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/blob/main/item.filter",
-      "git_url": "https://api.github.com/repos/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/git/blobs/835d07e76523d62cb86df05602643b3f9fcbbb2e",
-      "type": "file"
-    }
+    "selectedAuthor": null,
+    "selectedFilter": null
   },
   "Pd2AuthorList": {
-    "StorageETag": "7e9a9e2763c923682e4710bc3ede3f18b4b07dce122609181bcb28d9754ee7d0",
-    "StorageAuthorList": [
-      {
-        "name": "Wolfie's PD2 Loot Filters",
-        "url": "https://api.github.com/repos/WolfieeifloW/pd2filter/contents",
-        "author": "Wolfie"
-      },
-      {
-        "name": "Kryszard's PD2 Loot Filter",
-        "url": "https://api.github.com/repos/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/contents",
-        "author": "Kryszard"
-      },
-      {
-        "name": "Kassahi's PD2 Filter",
-        "url": "https://api.github.com/repos/KassahiPD2/Kassahi/contents",
-        "author": "Kassahi"
-      },
-      {
-        "name": "eqN's PD2 Filters",
-        "url": "https://api.github.com/repos/eqNj/eqN-PD2-Filter/contents",
-        "author": "eqN"
-      },
-      {
-        "name": "Erazure's PD2 Loot Filter",
-        "url": "https://api.github.com/repos/FiltersBy-Erazure/PD2-Loot-Filter/contents",
-        "author": "Erazure"
-      },
-      {
-        "name": "HiimFilter by Maaaark + HiimDave",
-        "url": "https://api.github.com/repos/Maaaaaarrk/HiimFilter-PD2-Filter/contents",
-        "author": "HiimFilter"
-      },
-      {
-        "name": "DarkHumility + ADev Filter",
-        "url": "https://api.github.com/repos/DarkHumility/DHFilter/contents",
-        "author": "ADevDH"
-      },
-      {
-        "name": "Dauracul's PD2 Loot Filter",
-        "url": "https://api.github.com/repos/Dauracul/filter/contents",
-        "author": "Dauracul"
-      },
-      {
-        "name": "Equa1ity's pd2 Filter",
-        "url": "https://api.github.com/repos/PritchardJasonR/Equa1ityPD2Filter/contents",
-        "author": "Equa1ity"
-      },
-      {
-        "name": "Sven's Filter",
-        "url": "https://api.github.com/repos/StandInTheRiver/Sven-s-Filter/contents",
-        "author": "Sven"
-      },
-      {
-        "name": "PiLLLa Filter",
-        "url": "https://api.github.com/repos/PiLLLaa/pd2/contents",
-        "author": "PiLLLa"
-      }
-    ]
+    "StorageETag": "null",
+    "StorageAuthorList": null
   },
   "LauncherArgs": {
     "graphics": false,
@@ -187,8 +117,8 @@
     ]
   },
   "WindowPosition": {
-    "Left": 142.0,
-    "Top": 264.0
+    "Left": 884.0,
+    "Top": 127.0
   },
   "ResetInfo": {
     "ETag": "09aba86e1e780c654d06e28e8db81a49a56e9d73915bf28860f2ab73b3a45153",
