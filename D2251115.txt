@@ -1,0 +1,48 @@
+---------------------------------------------------------------
+SS Realm startup at 2025-11-15 16:52:01.308
+---------------------------------------------------------------
+16:52:01.308  ------------------------------------------------------
+16:52:01.308  2025-11-15 16:52:01
+16:52:01.308  Diablo II running under Windows XP (Version 5.010)
+16:52:01.308  Vendor:  Intel
+16:52:01.308  Version: Pentium II or Celeron (Type 0, Family 6, Model 5, Stepping 5, Brand 0)
+16:52:01.310  Speed: Approx. 3792 MHz
+16:52:01.310  Total Physical Memory: 1024.00MB
+16:52:01.310  Application Path: F:\Diablo II Season 12 unpack\Diablo II Clean install\Diablo II\ProjectD2
+16:52:01.319  Local IP: 192.168.128.1
+16:52:01.319  Computer name: SS
+16:52:01.319  ------------------------------------------------------
+16:52:01.319  
+16:52:01.320  imagehlp.dll loaded for better stack crawls.
+16:52:04.693  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+16:52:04.700  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+---------------------------------------------------------------
+SS Realm startup at 2025-11-15 16:52:15.912
+---------------------------------------------------------------
+16:52:15.912  ------------------------------------------------------
+16:52:15.912  2025-11-15 16:52:15
+16:52:15.912  Diablo II running under Windows XP (Version 5.010)
+16:52:15.912  Vendor:  Intel
+16:52:15.912  Version: Pentium II or Celeron (Type 0, Family 6, Model 5, Stepping 5, Brand 0)
+16:52:15.919  Speed: Approx. 3792 MHz
+16:52:15.919  Total Physical Memory: 1024.00MB
+16:52:15.919  Application Path: F:\Diablo II Season 12 unpack\Diablo II Clean install\Diablo II\ProjectD2
+16:52:15.929  Local IP: 192.168.128.1
+16:52:15.929  Computer name: SS
+16:52:15.929  ------------------------------------------------------
+16:52:15.929  
+16:52:15.930  imagehlp.dll loaded for better stack crawls.
+16:52:17.398  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+16:52:17.408  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+---------------------------------------------------------------
+SS Realm startup at 2025-11-15 17:55:47.585
+---------------------------------------------------------------
+17:55:47.585  ------------------------------------------------------
+---------------------------------------------------------------
+SS Realm startup at 2025-11-15 17:56:04.641
+---------------------------------------------------------------
+17:56:04.641  ------------------------------------------------------
+---------------------------------------------------------------
+SS Realm startup at 2025-11-15 17:56:23.546
+---------------------------------------------------------------
+17:56:23.546  ------------------------------------------------------

@@ -1,0 +1,18 @@
+---------------------------------------------------------------
+SS Realm startup at 2025-11-13 02:01:48.038
+---------------------------------------------------------------
+02:01:48.038  ------------------------------------------------------
+02:01:48.038  2025-11-13 02:01:48
+02:01:48.038  Diablo II running under Windows .Net (Version 6.002)
+02:01:48.038  Vendor:  Intel
+02:01:48.038  Version: Pentium II or Celeron (Type 0, Family 6, Model 5, Stepping 5, Brand 0)
+02:01:48.046  Speed: Approx. 3792 MHz
+02:01:48.046  Total Physical Memory: 2048.00MB
+02:01:48.046  Application Path: F:\Diablo II Season 12 unpack\Diablo II Clean install\Diablo II\ProjectD2
+02:01:48.052  Local IP: 172.28.224.1
+02:01:48.052  Computer name: SS
+02:01:48.052  ------------------------------------------------------
+02:01:48.052  
+02:01:48.053  imagehlp.dll loaded for better stack crawls.
+02:01:49.447  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+02:01:49.453  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
