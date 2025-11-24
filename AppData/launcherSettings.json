@@ -9,7 +9,7 @@
     "MaxFps": "0",
     "Vsync": false,
     "AdjMouse": false,
-    "Shader": "Shaders\\xbr\\xbr-lv2-noblend.glsl",
+    "Shader": "shaders\\xbr\\xbr-lv2-noblend.glsl",
     "PosX": -32000,
     "PosY": -32000,
     "Renderer": "opengl",
@@ -28,8 +28,8 @@
     "SingleCpu": true
   },
   "FileUpdateModel": {
-    "Client": "https://pd2-beta-client-files.projectdiablo2.com/",
-    "FilePath": "Beta",
+    "Client": "https://pd2-client-files.projectdiablo2.com/",
+    "FilePath": "Live",
     "Launcher": "https://storage.googleapis.com/storage/v1/b/pd2-launcher-update/o",
     "Other": ""
   },
