@@ -9,7 +9,7 @@
     "MaxFps": "0",
     "Vsync": false,
     "AdjMouse": false,
-    "Shader": "shaders\\xbr\\xbr-lv2-noblend.glsl",
+    "Shader": "Shaders\\xbr\\xbr-lv2-noblend.glsl",
     "PosX": -32000,
     "PosY": -32000,
     "Renderer": "opengl",
