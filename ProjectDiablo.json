@@ -52,13 +52,13 @@
             "max_player": 8,
             "diff_level": 2,
             "lvl_rest": 666,
-            "selected_game_server": 10,
+            "selected_game_server": 1,
             "loot_alloc": 0
         },
         "other": {
             "lng_file": "",
             "installpath": "X:\\Pd2 patches Github\\Diablo II\\",
-            "save_path": ""
+            "save_path": "X:\\Pd2 patches Github\\Diablo II\\Save\\"
         }
     },
     "pd2_game_settings": {
