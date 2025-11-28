@@ -48,12 +48,20 @@
     "disableAutoUpdate": false
   },
   "News": {
-    "ETag": "282b292d792d133083e9cb22a0598d3b13c5859ebe942215ff011b35e3215a85",
+    "ETag": "c12f5f96b062cf368316aba166b1242356e0c0c90afdec8c63bd9355974ea819",
     "news": [
+      {
+        "date": "November 27, 2025",
+        "title": "Season 12 Suffering has launched!",
+        "summary": "Stash search, quivers overhaul, sound customization, 5-year anniversary item editions and many more changes! Click here for the full patch notes.",
+        "content": "\n\nJoin the action and community discussions on [Discord](https://discord.gg/projectdiablo2) and [Reddit](https://www.reddit.com/r/ProjectDiablo2/).",
+        "image": null,
+        "link": "https://www.reddit.com/r/ProjectDiablo2/comments/1p8eg34/project_diablo_2_season_12_suffering_patch_notes/"
+      },
       {
         "date": "May 15, 2025",
         "title": "Season 11 Prosperity has launched!",
-        "summary": "Good luck and may the bers be with you! If you'd like to post a trade make sure to check out our trade website by clicking the link above or click this link to see the Season 10 Patch Notes!",
+        "summary": "Good luck and may the bers be with you! If you'd like to post a trade make sure to check out our trade website by clicking the link above or click this link to see the Season 11 Patch Notes!",
         "content": "\n\nJoin the action and community discussions on [Discord](https://discord.gg/projectdiablo2) and [Reddit](https://www.reddit.com/r/ProjectDiablo2/).",
         "image": null,
         "link": "https://www.reddit.com/r/ProjectDiablo2/comments/1knnycc/project_diablo_2_season_11_prosperity_patch_notes/"
@@ -117,8 +125,8 @@
     ]
   },
   "WindowPosition": {
-    "Left": 884.0,
-    "Top": 127.0
+    "Left": 698.0,
+    "Top": 223.0
   },
   "ResetInfo": {
     "ETag": "09aba86e1e780c654d06e28e8db81a49a56e9d73915bf28860f2ab73b3a45153",
