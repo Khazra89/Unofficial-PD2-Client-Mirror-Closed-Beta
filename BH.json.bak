@@ -4,8 +4,8 @@
         "autofill_next_game": true,
         "autofill_last_password": true,
         "autofill_description": true,
-        "save_last_game": "Asdg56",
-        "save_last_pass": "44",
+        "save_last_game": "Steve",
+        "save_last_pass": "1",
         "save_last_desc": "",
         "show_difficulty": true,
         "show_gameserver": true,
@@ -77,7 +77,7 @@
         }
     },
     "game": {
-        "experience_meter": false,
+        "experience_meter": true,
         "always_show_items": false
     },
     "party": {
@@ -99,7 +99,7 @@
             "%GAMETIME%",
             "Ping: %PING%"
         ],
-        "hide_game_password": false
+        "hide_game_password": true
     },
     "stash_export": {
         "include_equipment": {

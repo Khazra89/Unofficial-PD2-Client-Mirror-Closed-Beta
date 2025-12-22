@@ -33,20 +33,9 @@
     "Launcher": "https://storage.googleapis.com/storage/v1/b/pd2-launcher-update/o",
     "Other": ""
   },
-  "SelectedAuthorAndFilter": {
-    "selectedAuthor": null,
-    "selectedFilter": null
-  },
-  "Pd2AuthorList": {
-    "StorageETag": "null",
-    "StorageAuthorList": null
-  },
-  "LauncherArgs": {
-    "graphics": false,
-    "skiptobnet": true,
-    "sndbkg": false,
-    "disableAutoUpdate": false
-  },
+  "SelectedAuthorAndFilter": null,
+  "Pd2AuthorList": null,
+  "LauncherArgs": null,
   "News": {
     "ETag": "c12f5f96b062cf368316aba166b1242356e0c0c90afdec8c63bd9355974ea819",
     "news": [
@@ -125,8 +114,8 @@
     ]
   },
   "WindowPosition": {
-    "Left": 698.0,
-    "Top": 223.0
+    "Left": 528.0,
+    "Top": 208.0
   },
   "ResetInfo": {
     "ETag": "09aba86e1e780c654d06e28e8db81a49a56e9d73915bf28860f2ab73b3a45153",
