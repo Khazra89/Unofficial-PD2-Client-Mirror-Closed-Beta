@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+SS Realm startup at 2026-04-11 15:24:13.114
+---------------------------------------------------------------
+15:24:13.114  ------------------------------------------------------
+15:24:13.114  2026-04-11 15:24:13
+15:24:13.114  Diablo II running under Windows .Net (Version 6.002)
+15:24:13.114  Vendor:  Intel
+15:24:13.114  Version: Pentium II or Celeron (Type 0, Family 6, Model 5, Stepping 5, Brand 0)
+15:24:13.118  Speed: Approx. 3791 MHz
+15:24:13.118  Total Physical Memory: 2048.00MB
+15:24:13.118  Application Path: X:\Season13Beta
+15:24:13.123  Local IP: 10.5.0.2
+15:24:13.123  Computer name: SS
+15:24:13.123  ------------------------------------------------------
+15:24:13.123  
+15:24:13.124  imagehlp.dll loaded for better stack crawls.

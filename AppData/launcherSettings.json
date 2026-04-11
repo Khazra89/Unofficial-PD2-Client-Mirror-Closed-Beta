@@ -28,8 +28,8 @@
     "SingleCpu": true
   },
   "FileUpdateModel": {
-    "Client": "https://pd2-client-files.projectdiablo2.com/",
-    "FilePath": "Live",
+    "Client": "https://pd2-beta-client-files.projectdiablo2.com/",
+    "FilePath": "Beta",
     "Launcher": "https://storage.googleapis.com/storage/v1/b/pd2-launcher-update/o",
     "Other": ""
   },
